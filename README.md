@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **harshkumar2037@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WYg45aSV9d-hwDYf4PiSaiDgRHAc9G2f/view?usp=sharing](https://drive.google.com/file/d/1WYg45aSV9d-hwDYf4PiSaiDgRHAc9G2f/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1WYg45aSV9d-hwDYf4PiSaiDgRHAc9G2f/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
