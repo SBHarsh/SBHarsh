@@ -10,9 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sbharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sbharsh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sbharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sbharsh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sbharsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sbharsh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sbharsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sbharsh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Sb_Harsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sbharsh" height="30" width="40" /></a>
+<a href="https://leetcode.com/sb_harsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sbharsh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
