@@ -1,4 +1,4 @@
-![logo](https://github.com/SBHarsh/SBHarsh/blob/main/banner.png)
+![logo](https://github.com/SBHarsh/SBHarsh/blob/main/Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A recent software engineering graduate.</h3>
 <img align="right" alt="coding" width=300 src="https://github.com/SBHarsh/SBHarsh/blob/main/coding%20gif.gif">
