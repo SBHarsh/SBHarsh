@@ -1,12 +1,9 @@
 ![logo](https://github.com/SBHarsh/SBHarsh/blob/main/Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
-<h3 align="center">I am highly motivated by my passion for devising inventive solutions and refining
+<h3 align="justify">I am highly motivated by my passion for devising inventive solutions and refining
 software performance. During my academic tenure, I was elected as the class representative for four successive years,
 sharpening my communication and leadership abilities. Additionally, I played a vital role in organizing numerous college events,
-cultivating my reputation as a competent team player skilled in leading collaborative efforts. Moreover, I have accrued a wealth of
-experience in software development through several projects during my academic pursuit. These projects have not only provided
-me with hands-on experience in designing and executing robust applications but also in catering to the diverse requirements of
-end-users..</h3>
+cultivating my reputation as a competent team player skilled in leading collaborative efforts.</h3>
 <img align="right" alt="coding" width=300 src="https://github.com/SBHarsh/SBHarsh/blob/main/coding%20gif.gif">
 - 🌱 I’m currently learning **Frameworks**
 
