@@ -1,9 +1,9 @@
 ![logo](https://github.com/SBHarsh/SBHarsh/blob/main/Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
-<h3 align="justify">I am highly motivated by my passion for devising inventive solutions and refining
-software performance. During my academic tenure, I was elected as the class representative for four successive years,
-sharpening my communication and leadership abilities. Additionally, I played a vital role in organizing numerous college events,
-cultivating my reputation as a competent team player skilled in leading collaborative efforts.</h3>
+<h3 align="justify">I am a Software Engineer with 1+ year of experience in developing applications using SQL, Python. Proficient in writing
+efficient scripts, performing data cleaning, exploratory data analysis (EDA), and identifying trends within large datasets.
+Developed predictive models. Skilled in optimizing application performance and generating actionable reports. Experienced
+working in Agile teams collaborating closely with cross-functional stakeholders to deliver scalable software solutions.</h3>
 <img align="right" alt="coding" width=300 src="https://github.com/SBHarsh/SBHarsh/blob/main/coding%20gif.gif">
 - 🌱 I’m currently learning **Frameworks**
 
