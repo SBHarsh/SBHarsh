@@ -1,6 +1,6 @@
 ![logo](https://github.com/SBHarsh/SBHarsh/blob/main/Banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
-<h3 align="justify">I am a Software Engineer with 1+ year of experience in developing applications using SQL, Python. Proficient in writing
+<h3 align="justify">I am a Software Engineer with 1+ year of experience in developing applications using Java, C++, Python and database like MySQL and MongoDB. Proficient in writing
 efficient scripts, performing data cleaning, exploratory data analysis (EDA), and identifying trends within large datasets.
 Developed predictive models. Skilled in optimizing application performance and generating actionable reports. Experienced
 working in Agile teams collaborating closely with cross-functional stakeholders to deliver scalable software solutions.</h3>
